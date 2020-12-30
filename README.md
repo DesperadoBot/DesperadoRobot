@@ -2,7 +2,7 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/bbf22d71d8084419b510d8904f9f30bd)](https://www.codacy.com/gh/matesa/DesperadoRobot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=matesa/DesperadoRoBot&amp;utm_campaign=Badge_Grade) ![Repo Boyutu](https://img.shields.io/github/repo-size/matesa/DesperadoRobot) ![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/matesa/DesperadoRobot&title=Profile%20Views) [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/matesa/DesperadoRobot)
 
-[Desperado Robot](https://github.com/DesperadoBot/DesperadoRobot) *tabanı kullanılarak oluşturulmuş* **Robot..**
+[Desperado Robot](https://github.com/KekikAkademi/KekikRobot) *tabanı kullanılarak oluşturulmuş* **Robot..**
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/matesa/)
