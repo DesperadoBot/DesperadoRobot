@@ -1,4 +1,4 @@
-DesperadoTaban
+KekikTaban
 DesperadoSpatula
 setuptools
 pyrogram
