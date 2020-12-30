@@ -48,7 +48,7 @@ API_HASH        = str(os.environ.get("API_HASH", str))
 BOT_TOKEN       = str(os.environ.get("BOT_TOKEN", str))
 LOG_ID          = str(os.environ.get("LOG_ID", str))
 YETKILI         = str(os.environ.get("YETKILI", str)).split(',')
-SESSION_ADI     = os.environ.get("SESSION_ADI", "AkademiRobot")
+SESSION_ADI     = os.environ.get("SESSION_ADI", "DesperadoRobot")
 INDIRME_ALANI   = os.environ.get("INDIRME_ALANI", "downloads/")
 if not os.path.isdir(INDIRME_ALANI): os.makedirs(INDIRME_ALANI)
 
