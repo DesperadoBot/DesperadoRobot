@@ -11,7 +11,7 @@ DESTEK_KOMUT.update({
             "link"
             ],
         "ornekler" : [
-            ".kekiktube link"
+            ".desperadotube link"
             ]
     }
 })
