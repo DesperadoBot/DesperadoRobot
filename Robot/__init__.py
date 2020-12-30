@@ -4,7 +4,7 @@ from pyrogram import Client, __version__
 from pyrogram.errors import ApiIdInvalid, AccessTokenInvalid
 import os, sys
 from dotenv import load_dotenv
-from KekikTaban import DesperadoTaban
+from KekikTaban import KekikTaban
 
 taban = KekikTaban(
     baslik   = "@DesperadoBot Robot",
