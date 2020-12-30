@@ -1,5 +1,5 @@
 KekikTaban
-DesperadoSpatula
+KekikSpatula
 setuptools
 pyrogram
 asyncio
