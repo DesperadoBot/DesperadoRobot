@@ -19,7 +19,7 @@ DESTEK_KOMUT.update({
 from pyrogram import Client, filters
 from pyrogram.types import Message
 from Robot.Edevat._pyrogram.pyro_yardimcilari import yanitlanan_mesaj
-from DesperadoSpatula import Google
+from KekikSpatula import Google
 
 @Client.on_message(filters.command(['google'],['!','.','/']))
 async def google(client:Client, message:Message):
