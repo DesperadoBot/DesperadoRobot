@@ -19,10 +19,10 @@ DESTEK_KOMUT.update({
 from pyrogram import Client, filters
 from pyrogram.types import Message
 from Robot.Edevat._pyrogram.pyro_yardimcilari import yanitlanan_mesaj
-from DesperadoSpatula import DesperadoTube
+from KekikSpatula import KekikTube
 
 @Client.on_message(filters.command(['desperadotube'],['!','.','/']))
-async def desperadotube(client:Client, message:Message):
+async def kekiktube(client:Client, message:Message):
     # < Başlangıç
     await log_yolla(client, message)
     yanit_id  = await yanitlanan_mesaj(message)
