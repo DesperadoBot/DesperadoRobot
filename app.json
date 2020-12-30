@@ -40,7 +40,7 @@
       },
       "YETKILI": {
         "description": "Sadece yetkilerin erişebileceği komutlar için Kullanıcı ID'leri. Lütfen virgülle ayırın ve boşluk bırakmayın..",
-        "value": "1167979278",
+        "value": "1167979278,111111",
         "required": true
       },
       "SESSION_ADI": {
