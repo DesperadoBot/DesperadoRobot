@@ -4,9 +4,9 @@ from pyrogram import Client, __version__
 from pyrogram.errors import ApiIdInvalid, AccessTokenInvalid
 import os, sys
 from dotenv import load_dotenv
-from DesperadoTaban import DesperadoTaban
+from KekikTaban import DesperadoTaban
 
-taban = DesperadoTaban(
+taban = KekikTaban(
     baslik   = "@DesperadoBot Robot",
     aciklama = "DesperadoRobot Başlatıldı..",
     banner   = "DesperadoRobot",
