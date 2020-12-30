@@ -1,0 +1,12 @@
+DesperadoTaban
+DesperadoSpatula
+setuptools
+pyrogram
+asyncio
+aiohttp
+tgcrypto
+python-dotenv
+wget
+youtube-dl
+Pillow
+humanize
