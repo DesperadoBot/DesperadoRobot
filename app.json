@@ -35,7 +35,7 @@
       },
       "LOG_ID": {
         "description": "Log'ların gönderileceği kanal/grup/kullanıcı ID",
-        "value": "-498209498",
+        "value": "-1001473378949",
         "required": true
       },
       "YETKILI": {
