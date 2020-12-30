@@ -1,0 +1,71 @@
+{
+    "name": "DesperadoRobot",
+    "description": "POLESTAR_CHAT için PyroGram Robot",
+    "logo": "https://i.hizliresim.com/cxjBHU.jpg",
+    "keywords": [
+      "telegram",
+      "pyrogram",
+      "Robot",
+      "desperadobot",
+      "matesa",
+      "DesperadoRobot"
+    ],
+    "repository": "https://github.com/matesa/DesperadoRobot",
+    "success_url": "https://t.me/POLESTAR_CHAT",
+    "env": {
+      "ENV": {
+        "description": "Bunu HERHANGİ BİR ŞEY olarak ayarlamak, ortam değişkenlerini etkinleştirir",
+        "value": "matesa",
+        "required": true
+      },
+      "API_ID": {
+        "description": "Bu değeri şuradan alın: https://my.telegram.org",
+        "value": "",
+        "required": true
+      },
+      "API_HASH": {
+        "description": "Bu değeri şuradan alın: https://my.telegram.org",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN": {
+        "description": "@BotFather'dan alınan token",
+        "value": "",
+        "required": true
+      },
+      "LOG_ID": {
+        "description": "Log'ların gönderileceği kanal/grup/kullanıcı ID",
+        "value": "-498209498",
+        "required": true
+      },
+      "YETKILI": {
+        "description": "Sadece yetkilerin erişebileceği komutlar için Kullanıcı ID'leri. Lütfen virgülle ayırın ve boşluk bırakmayın..",
+        "value": "1167979278",
+        "required": true
+      },
+      "SESSION_ADI": {
+        "description": "Botunuzun Kullanıcı Adı",
+        "value": "DesperadoRobot",
+        "required": true
+      },
+      "INDIRME_ALANI": {
+        "description": "geçici indirme alanı, dosya sistemini içeren eklentiler için gereklidir..",
+        "value": "downloads/",
+        "required": true
+      }
+    },
+    "buildpacks": [
+      {
+        "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      },
+      {
+        "url": "heroku/python"
+      }
+    ],
+    "formation": {
+      "worker": {
+        "quantity": 1,
+        "size": "free"
+      }
+    }
+  }
