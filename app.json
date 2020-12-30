@@ -10,7 +10,7 @@
       "matesa",
       "DesperadoRobot"
     ],
-    "repository": "https://github.com/matesa/DesperadoRobot",
+    "repository": "https://github.com/DesperadoBot/DesperadoRobot",
     "success_url": "https://t.me/POLESTAR_CHAT",
     "env": {
       "ENV": {
