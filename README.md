@@ -11,7 +11,7 @@
 
 ### HEROKU ile Deploy Edin
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/matesa/DesperadoRobot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DesperadoBot/DesperadoRobot)
 
 ### Elle Deploy Edin
 
