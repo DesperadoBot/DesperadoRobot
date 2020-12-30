@@ -33,7 +33,8 @@ cp _ornek_ayar.env ayar.env && nano ayar.env
 pip install -U -r requirements.txt
 python3 basla.py
 ```
-
+## Thanks For;
+* **Bir çok şey için** [keyiflerolsun](https://github.com/keyiflerolsun) 🕊
 
 
 ## :globe_with_meridians: Telif Hakkı ve Lisans
