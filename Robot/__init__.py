@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 from KekikTaban import KekikTaban
 
 taban = KekikTaban(
-    baslik   = "@DesperadoBot Robot",
+    baslik   = "@Desperado Robot",
     aciklama = "DesperadoRobot Başlatıldı..",
     banner   = "DesperadoRobot",
     girinti  = 3
